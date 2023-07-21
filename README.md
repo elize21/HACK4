@@ -3,7 +3,7 @@
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
 ## *FEATURES*
-There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recordingaudio to any DM messagequerry and lastly it auto-updates bio
+There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio
 
 
 
