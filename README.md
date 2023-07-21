@@ -6,9 +6,6 @@
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recordingaudio to any DM messagequerry and lastly it auto-updates bio
 
 
-## Find  OpenAI ApiKey and Change it in Key.json
-- Get openAi key [Here](https://beta.openai.com/account/api-keys) and paste it where relevant!
-
 
 **Install Via Termux ✅**
 
@@ -27,10 +24,17 @@ Extract contents of node_modules, from ```node_modules.zip``` to the folder DREA
 ```bash
 $ dreaded.js
 ```
+## Connect to Heroku
+- Create your heroku Account [Here](https://id.heroku.com/login)and connect your Bot
+## Enable dynos
+
 
 
 ## License
-[MIT License](https://github.com/Fortunatusmokaya/DREADED-AI/blob/main/LICENSE)
+[MIT License]((https://github.com/elize21/HACK1)/blob/main/LICENSE)
 
-Copyright (c) 2023 HACK1 
+Copyright (c) 2023 ##HACK1 
+
+
+
 #TESLAS_MASTERMIND
