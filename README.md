@@ -22,7 +22,7 @@ Extract contents of node_modules, from ```node_modules.zip``` to the folder DREA
 
 **Run**
 ```bash
-$ dreaded.js
+$ node dreaded.js
 ```
 ## Connect to Heroku
 - Create your heroku Account [Here](https://id.heroku.com/login) and connect your Bot
@@ -37,4 +37,4 @@ Copyright (c) 2023 ##HACK1
 
 
 
-#TESLAS_MASTERMIND
+# TESLAS_MASTERMIND
