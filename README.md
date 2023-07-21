@@ -1,4 +1,4 @@
-# HACK1 AUTOSTATUS-VIEW
+# Mⱥsͥteͣrͫmiήd
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
@@ -25,7 +25,7 @@ Extract contents of node_modules, from ```node_modules.zip``` to the folder DREA
 $ dreaded.js
 ```
 ## Connect to Heroku
-- Create your heroku Account [Here](https://id.heroku.com/login)and connect your Bot
+- Create your heroku Account [Here](https://id.heroku.com/login) and connect your Bot
 ## Enable dynos
 
 
