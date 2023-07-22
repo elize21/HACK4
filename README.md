@@ -14,7 +14,7 @@ Download aplikasi termux  :
 [DOWNLOAD Termux](https://f-droid.org/en/packages/com.termux/)
 
 
-
+```
 $ termux-setup-storage (after that tap on permission)
 $ pkg update
 $ pkg upgrade
