@@ -9,6 +9,11 @@ There are 3 features, getting an AutostatusView response to your contacts automa
 
 **Install Via Termux ✅**
 
+Download aplikasi termux  :
+
+[DOWNLOAD Termux](https://f-droid.org/en/packages/com.termux/)
+
+
 Manually install ```node_modules``` or use the command ```npm install``` to install them although you may get error if your terminal is not well configured.
 <br>The ```node_modules``` are [here](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
 ```bash
