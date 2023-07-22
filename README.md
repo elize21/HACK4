@@ -18,12 +18,20 @@ $ cd HACK1
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
 ```
-Extract contents of node_modules, from ```node_modules.zip``` to the folder DREADED-AI.
 
 **Run**
 ```bash
 $ node dreaded.js
 ```
+
+## UPLOAD CREDS
+On github upload your creds generated from termux to session folder
+
+
+## NB
+make sure you turn your repository private after scanning qrcode in termux
+# REgards 
+                           wa.me+254701118127
 ## Connect to Heroku
 - Create your heroku Account [Here](https://id.heroku.com/login) and connect your Bot
 ## Enable dynos
