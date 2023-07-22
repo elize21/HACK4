@@ -15,8 +15,7 @@ Download aplikasi termux  :
 
 
 
-$ termux-setup-storage
-(after that tap on permission)
+$ termux-setup-storage (after that tap on permission)
 $ pkg update
 $ pkg upgrade
 $ pkg install wget
