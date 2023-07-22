@@ -32,11 +32,11 @@ On github upload your creds generated from termux to session folder
 
 # NB
 make sure you turn your repository private after scanning qrcode in termux
-# REgards 
+# **Regards** 
                            wa.me+254701118127
-# Connect to Heroku
+# **Connect to Heroku**
 - Create your heroku Account [Here](https://id.heroku.com/login) and connect your Bot
-# Enable dynos
+# _Enable dynos_
 
 
 
