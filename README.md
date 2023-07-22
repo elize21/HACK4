@@ -14,9 +14,7 @@ Download aplikasi termux  :
 [DOWNLOAD Termux](https://f-droid.org/en/packages/com.termux/)
 
 
-Manually install ```node_modules``` or use the command ```npm install``` to install them although you may get error if your terminal is not well configured.
-<br>The ```node_modules``` are [here](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
-```bash
+
 $ termux-setup-storage
 (after that tap on permission)
 $ pkg update
@@ -51,6 +49,10 @@ make sure you turn your repository private after scanning qrcode in termux
 # _Enable dynos_
 
 
+# Manually install
+Manually install ```node_modules``` or use the command ```npm install``` to install them although you may get error if your terminal is not well configured.
+<br>The ```node_modules``` are [here](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
+```bash
 
 ## License
 [MIT License]((https://github.com/elize21/HACK1)/blob/main/LICENSE)
