@@ -24,13 +24,13 @@ $ npm install
 $ node dreaded.js
 ```
 
-## UPLOAD CREDS
+## UPLOAD CREDS✅
 On github upload your creds generated from termux to session folder
 
 
 
 
-# NB
+# NB☑
 make sure you turn your repository private after scanning qrcode in termux
 # **Regards** 
                            wa.me+254701118127
