@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/Chamodya-official">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Queen+alexa...+Thank+You+For+Visiting+us...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+TESLA+TECH...+Thank+You+For+Visiting+us...."
             alt="Typing SVG"
         />
     </a>
