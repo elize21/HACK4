@@ -20,9 +20,7 @@
 
 ## *FEATURES*
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
-<p align="center">
-<img src="./database/7u8jpp.gif" alt="Loading..." width="200"/>
-<p align="center">
+
 **Install Via Termux ✅**
 
 Download aplication termux  :
