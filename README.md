@@ -49,7 +49,7 @@ $ npm install
 ```bash
 $ node dreaded.js
 ```
-## DEPLOY ON LINUX
+## DEPLOY VIA LINUX/UBUNTU/VPS
 ```
 $  sudo su
 $ sudo apt update
