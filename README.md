@@ -23,7 +23,7 @@ There are 3 features, getting an AutostatusView response to your contacts automa
 
 
 <p align="center">
-<img src="./database/7u8jpp.gif" alt="Loading..." width="480"/>
+<img src="./database/7u8jpp.gif" alt="Loading..." width="200"/>
 <p align="center">
 
 **Install Via Termux ✅**
