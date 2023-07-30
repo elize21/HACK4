@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://i.ibb.co/Bnkt1TC/Whats-App-Image-2022-09-12-at-09-02-23.jpg"
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬TESLAS༒MINIBOTS࿐+࿐+📅 Tuesday, October 26, 2016 ⌚ 8:20:59 🎖️ ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Maͭsͪtͤers;) ]
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬TESLAS༒MINIBOTS࿐+࿐) ]
  
  
  #### TOTAL REPO VIEWS📍
