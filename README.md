@@ -40,6 +40,7 @@ $ pkg install nodejs
 $ pkg install git nodejs -y
 $ git clone https://github.com/elize21/HACK1
 $ cd HACK1
+$ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
 ```
@@ -47,6 +48,21 @@ $ npm install
 **Run**
 ```bash
 $ node dreaded.js
+```
+## DEPLOY ON LINUX
+```
+$  sudo su
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install wget
+$ sudo apt install ffmpeg
+$ sudo apt install nodejs
+$ sudo apt install git nodejs -y
+$ git clone https://github.com/elize21/HACK1
+$ cd HACK1
+$ rm -rf session
+If you did not install the node modules manually then proceed with the command below.
+$ npm install
 ```
 # Linked devices
 
