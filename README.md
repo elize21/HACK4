@@ -1,9 +1,9 @@
 # _Mⱥsͥteͣrͫmiήd_
 
-***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
+***This whatsapp mini-bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
 ## *FEATURES*
-There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio
+There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
 
 
 
@@ -32,6 +32,9 @@ $ npm install
 ```bash
 $ node dreaded.js
 ```
+# Linked devices
+Now visit linked devices using different phone and scan QR code
+it will automaticaly generate session-ID (creds)
 
 ## UPLOAD CREDS✅
 On github upload your creds generated from termux to session folder
