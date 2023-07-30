@@ -39,6 +39,7 @@ it will automaticaly generate session-ID (creds)
 ## UPLOAD CREDS✅
 On github upload your creds generated from termux to session folder
 
+![image](https://github.com/elize21/HACK1/assets/106829163/8e4fb47b-2333-493b-85ac-d9efd22320fc)
 
 
 
