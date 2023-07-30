@@ -33,13 +33,16 @@ $ npm install
 $ node dreaded.js
 ```
 # Linked devices
+
 Now visit linked devices using different phone and scan QR code
 it will automaticaly generate session-ID (creds)
+
+`![image](https://github.com/elize21/HACK1/assets/106829163/04d52b9b-e74e-4be2-9e47-da740fd996f2)
+`
 
 ## UPLOAD CREDS✅
 On github upload your creds generated from termux to session folder
 
-![image](https://github.com/elize21/HACK1/assets/106829163/8e4fb47b-2333-493b-85ac-d9efd22320fc)
 
 
 
