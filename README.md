@@ -1,6 +1,12 @@
 # _Mⱥsͥteͣrͫmiήd_
 
 ***This whatsapp mini-bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
+<p align="center">
+<img src="./database/kaveesha.gif" alt="Loading..." width="320"/>
+<p align="center">
+
+<h1 align="center">✫ ✫ ✫MINI BOT✫ ✫ ✫<br></h1>
+<p align="center">
 
 ## *FEATURES*
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
