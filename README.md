@@ -23,7 +23,7 @@ There are 3 features, getting an AutostatusView response to your contacts automa
 
 
 <p align="center">
-<img src="https://imgflip.com/gif/7u8jpp.gif" alt="nz" width="600"/>
+<img src="https://imgflip.com/gif/7u8jpp" alt="nz" width="600"/>
 </p>
 
 
