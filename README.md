@@ -1,4 +1,4 @@
-# Mⱥsͥteͣrͫmiήd
+# _Mⱥsͥteͣrͫmiήd_
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
