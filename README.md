@@ -12,6 +12,16 @@
  #### TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
+
+
+
+
+
+
+
+
+
+
 # _Mⱥsͥteͣrͫmiήd_
 
 ***This whatsapp mini-bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
