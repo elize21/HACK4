@@ -21,6 +21,12 @@
 ## *FEATURES*
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
 
+<img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
+
+
+<p align="center">
+<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="600"/>
+</p>
 
 
 **Install Via Termux ✅**
@@ -88,7 +94,6 @@ make sure you turn your repository private after scanning qrcode in termux
 Manually install ```node_modules``` or use the command ```npm install``` to install them although you may get error if your terminal is not well configured.
 <br>The ```node_modules``` are [here](https://drive.google.com/file/d/1xgRIwDVuTklxwdtsx933WfmzqtRxEsGV/view?usp=share_link)
 ```bash
-
 
 ## License
 [MIT License]((https://github.com/elize21/HACK1)/blob/main/LICENSE)
