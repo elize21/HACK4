@@ -2,19 +2,6 @@
 <img src="./database/kaveesha.gif" alt="Loading..." width="320"/>
 <p align="center">
 
-<h1 align="center">✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫<br></h1>
-<p align="center">
-<img src="https://i.ibb.co/Bnkt1TC/Whats-App-Image-2022-09-12-at-09-02-23.jpg"
- 
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬TESLAS༒MINIBOTS࿐+࿐) ]
- 
- 
- #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
-
-
-
-
 
 
 
