@@ -26,7 +26,7 @@ There are 3 features, getting an AutostatusView response to your contacts automa
 **Install Via Termux ✅**
 
 Download aplication termux  :
-
+Ensure your connected to network while running termux/VPS
 [DOWNLOAD Termux](https://f-droid.org/en/packages/com.termux/)
 
 
