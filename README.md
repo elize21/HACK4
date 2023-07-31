@@ -21,6 +21,8 @@
 ## *FEATURES*
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
 ## FORK THIS REPOSITORY
+Before installing whatsapp lightweight minibot makesure you fork this repository
+Cheers enjoy
 🙂➾ [Fork This Repo By Clicking Here](https://github.com/elize21/HACK1/fork/)
 
 **Install Via Termux ✅**
