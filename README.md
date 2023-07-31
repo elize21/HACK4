@@ -21,7 +21,7 @@
 ## *FEATURES*
 There are 3 features, getting an AutostatusView response to your contacts automatically sends responce presence recording audio to any DM message querry and lastly it auto-updates bio on whatsapp
 ## FORK THIS REPOSITORY
-> 🙂➾ [Fork This Repo By Clicking Here](https://github.com/elize21/HACK1/fork)
+🙂➾ [Fork This Repo By Clicking Here](https://github.com/elize21/HACK1/fork/)
 
 **Install Via Termux ✅**
 
