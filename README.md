@@ -75,6 +75,8 @@ it will automaticaly generate session-ID (creds)
 ## UPLOAD CREDS✅
 On github upload your creds generated from termux to session folder
 
+#### TOTAL REPO VIEWS😎
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
 # **Regards** 
                            wa.me+254701118127
