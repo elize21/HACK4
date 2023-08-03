@@ -93,8 +93,8 @@ Manually install ```node_modules``` or use the command ```npm install``` to inst
 ## License
 [MIT License]((https://github.com/elize21/HACK1)/blob/main/LICENSE)
 
-Copyright (c) 2023 ##HACK1 ```
+Copyright (c) 2023 ##HACK1 
 
 
-## **_TESLAS_MASTERMIND_**
+## _TESLAS_MASTERMIND_
 
