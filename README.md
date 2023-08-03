@@ -76,10 +76,6 @@ it will automaticaly generate session-ID (creds)
 On github upload your creds generated from termux to session folder
 
 
-
-
-# NB☑
-make sure you turn your repository private after scanning qrcode in termux
 # **Regards** 
                            wa.me+254701118127
 # **Connect to Heroku**
