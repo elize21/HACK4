@@ -41,8 +41,8 @@ $ pkg install wget
 $ pkg install ffmpeg
 $ pkg install nodejs
 $ pkg install git nodejs -y
-$ git clone https://github.com/elize21/HACK1
-$ cd HACK1
+$ git clone https://github.com/elize21/HACK1 (here you paste your repository link you forked)
+$ cd HACK1 (your repository name)
 $ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
@@ -61,8 +61,8 @@ $ sudo apt install wget
 $ sudo apt install ffmpeg
 $ sudo apt install nodejs
 $ sudo apt install git nodejs -y
-$ git clone https://github.com/elize21/HACK1
-$ cd HACK1
+$ git clone https://github.com/elize21/HACK1 (paste your repository after forking here)
+$ cd HACK1 (YOUR REPO NAME)
 $ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
