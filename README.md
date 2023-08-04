@@ -79,7 +79,7 @@ On github upload your creds generated from termux to session folder
 ![Visitor Count](https://profile-counter.glitch.me/elize21/count.svg)
 
 # **Regards** 
-                           wa.me+254701118127
+                           wa.me/+254701118127
 # **Connect to Heroku**
 - Create your heroku Account [Here](https://id.heroku.com/login) and connect your Bot
 # _Enable dynos_
