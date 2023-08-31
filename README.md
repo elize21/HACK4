@@ -26,7 +26,8 @@ Cheers enjoy
 
 🙂➾ [Fork This Repo By Clicking Here](https://github.com/elize21/HACK1/fork/)
 
-**Install Via Termux ✅**
+<details>
+<summary>Install Via Termux ✅ </summary>
 
 Download aplication termux  :
 Ensure your connected to network while running termux/VPS
@@ -47,11 +48,12 @@ $ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
 ```
-
+</details>
 **Run**
 ```bash
 $ node dreaded.js
 ```
+
 ## DEPLOY VIA LINUX/UBUNTU/VPS
 ```
 $  sudo su
