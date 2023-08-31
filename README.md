@@ -51,8 +51,8 @@ $ npm install
 **Run**
 ```bash
 $ node dreaded.js
-```
 </details>
+```
 ## DEPLOY VIA LINUX/UBUNTU/VPS
 ```
 $  sudo su
