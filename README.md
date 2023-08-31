@@ -48,12 +48,11 @@ $ rm -rf session
 If you did not install the node modules manually then proceed with the command below.
 $ npm install
 ```
-</details>
 **Run**
 ```bash
 $ node dreaded.js
 ```
-
+</details>
 ## DEPLOY VIA LINUX/UBUNTU/VPS
 ```
 $  sudo su
