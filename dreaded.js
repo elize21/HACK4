@@ -85,7 +85,7 @@ async function main() {
               sock.sendPresenceUpdate('recording', m.chat)
     }      if (m.chat.endsWith('broadcast')) {
     sock.readMessages([m.key]);
-      const status = 'undefined ilonka'
+      const status = '📅 Tuesday, October 26, 2016 ⌚ 8:20:59 🎖️ ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Maͭsͪtͤers'
 await sock.updateProfileStatus(status);
     }
    
