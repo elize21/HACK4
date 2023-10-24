@@ -134,3 +134,9 @@ await sock.updateProfileStatus(status);
 };
 
 main();
+
+
+  sock.ev.on('creds.update', saveCreds);
+};
+
+main();
